@@ -1,9 +1,10 @@
 {
-    "users": [
-        { "username": "rasyagelo", "password": "rasyagelo" },
-        { "username": "rasyagelo2", "password": "rasyagelo2" }
-    ],
-    "keys": [
-        { "key": "key123", "numbers": ["6285727264161", "6289876543210"] }
-    ]
+  "users": [
+    {
+      "username": "rasyaxdian",
+      "password": "rasyaxdian"
+    }
+  ],
+  "allowedNumbers": ["6285727264161", "6285727264161"] // Format nomor telepon tanpa tanda +, awali dengan kode negara.
 }
+
